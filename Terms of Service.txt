@@ -1,0 +1,35 @@
+Proxima Bot Terms of Service
+Last Updated: 14 August 2024
+
+Welcome to Proxima Bot! By using this Discord bot, you agree to the following Terms of Service. Please read them carefully.
+
+1. Acceptance of Terms
+By using Proxima Bot, you agree to be bound by these Terms of Service, our Privacy Policy, and any additional terms and conditions provided within the bot.
+
+2. Modifications to the Terms
+We reserve the right to modify these Terms at any time. Changes will be posted within the bot or on our official page. Continued use of Proxima Bot constitutes your acceptance of the revised Terms.
+
+3. Usage
+Proxima Bot is provided "as is" without warranties of any kind. You are responsible for your use of the bot and for any consequences thereof.
+
+4. Data Collection and Privacy
+Proxima Bot may collect and store data as necessary to function. By using the bot, you consent to this data collection as outlined in our Privacy Policy. We do not sell or share your data with third parties without your consent.
+
+5. User Conduct
+You agree not to misuse Proxima Bot, including but not limited to:
+
+Engaging in illegal activities
+Attempting to exploit or hack the bot
+Spamming or abusing bot features
+
+6. Termination
+We reserve the right to terminate your access to Proxima Bot at our discretion, without notice, for violations of these Terms or other reasons deemed necessary.
+
+7. Limitation of Liability
+Proxima Bot and its developers are not liable for any direct, indirect, incidental, or consequential damages arising from your use of the bot.
+
+8. Governing Law
+These Terms shall be governed by and construed in accordance with the laws of India.
+
+9. Contact Information
+For any questions or concerns regarding these Terms, please contact us at botproxima@gmail.com.

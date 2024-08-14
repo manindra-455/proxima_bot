@@ -1,0 +1,46 @@
+Proxima Bot Privacy Policy
+Last Updated: 14 August 2024
+
+Proxima Bot respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose information when you use our Discord bot.
+
+1. Information We Collect
+1.1 User Data
+Discord User ID: We collect your unique Discord user ID for user identification within the bot.
+Discord Server ID: The bot may collect server IDs to function properly in different Discord servers.
+Usernames and Nicknames: We may collect usernames or nicknames to display in features like leaderboards or registration lists.
+1.2 Usage Data
+Commands Issued: We log the commands issued by users to ensure the bot’s features work correctly and to improve user experience.
+Event Participation: Information related to tournament registrations, scrims, and other bot-managed events is collected to facilitate these activities.
+1.3 Log Data
+Log Files: We automatically collect log data whenever the bot is used. This may include information like IP addresses, browser types, and timestamps.
+2. How We Use Your Information
+2.1 Service Operation
+To provide, maintain, and improve the features of Proxima Bot.
+To manage user interactions, such as tournament registrations and event participation.
+2.2 Analytics
+To understand how users interact with the bot and to improve its functionalities.
+To monitor and analyze usage patterns and trends.
+2.3 Communication
+To send notifications or messages related to your use of the bot, such as tournament updates or registration confirmations.
+3. Information Sharing and Disclosure
+3.1 Third-Party Services
+We do not share your personal information with third parties except as necessary to operate the bot or comply with legal obligations.
+
+3.2 Legal Requirements
+We may disclose your information if required to do so by law or in response to valid requests by public authorities.
+
+4. Data Retention
+We retain your data only for as long as necessary to provide the bot’s services or as required by law. You can request data deletion by contacting us at [Contact Email].
+
+5. Security
+We implement industry-standard security measures to protect your data. However, no method of transmission over the internet or method of electronic storage is 100% secure.
+
+6. Your Rights
+Access and Correction: You have the right to access and correct the personal data we hold about you.
+Data Deletion: You can request the deletion of your data at any time by contacting us at botproxima@gmail.com.
+7. Changes to This Policy
+We may update this Privacy Policy from time to time. Changes will be posted within the bot or on our official page. Continued use of the bot after changes have been made constitutes your acceptance of the new policy.
+
+8. Contact Us
+If you have any questions about this Privacy Policy, please contact us at botproxima@gmail.com.
+
