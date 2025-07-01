@@ -100,7 +100,7 @@ Ensure the bot has the following permissions in your server:
 
 ## 🤝 Contributing
 
-**Proxima is open for everyone to upgrade!**  
+**Proxima is open for everyone to Contribute!**  
 Whether you're a beginner or an advanced developer, feel free to fork the project, improve it, and make it your own. Contributions are highly welcome in the form of pull requests, new features, documentation improvements, or bug fixes.
 
 ---
